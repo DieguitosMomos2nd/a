@@ -1,0 +1,140 @@
+[22Oct2025 00:07:37.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DieguitosMomos[/127.207.128.185:40797] logged in with entity id 5093 at (-156.4853264142124, -4.833890739061786, -116.297049147806)
+[22Oct2025 00:07:37.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos joined the game
+[22Oct2025 00:07:37.213] [Server thread/INFO] [Jade/]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22Oct2025 00:07:37.297] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DieguitosMomos (20)
+[22Oct2025 00:07:37.297] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:07:40.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:07:42.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:07:42.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22Oct2025 00:09:45.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuwii0[/127.64.253.164:58465] logged in with entity id 7458 at (-64.5, 73.0, -134.5)
+[22Oct2025 00:09:45.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 joined the game
+[22Oct2025 00:09:45.946] [Server thread/INFO] [Jade/]: Syncing config to Kuwii0 (be6783b9-deab-35e4-adcc-ff70adb65e8d)
+[22Oct2025 00:09:46.810] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kuwii0 (20)
+[22Oct2025 00:09:46.811] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kuwii0
+[22Oct2025 00:09:50.240] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be6783b9-deab-35e4-adcc-ff70adb65e8d
+[22Oct2025 00:09:52.243] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be6783b9-deab-35e4-adcc-ff70adb65e8d
+[22Oct2025 00:09:52.244] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kuwii0 (be6783b9-deab-35e4-adcc-ff70adb65e8d) successfully connected to voice chat
+[22Oct2025 00:10:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Is this... blood?]
+[22Oct2025 00:10:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 was slain by Zombie
+[22Oct2025 00:10:15.084] [Server thread/INFO] [gravestone/]: The death ID of player Kuwii0 is a8dc1c08-a0f1-4392-8f06-f9a1517dccd9
+[22Oct2025 00:10:25.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 was slain by Zombie
+[22Oct2025 00:10:25.877] [Server thread/INFO] [gravestone/]: The death ID of player Kuwii0 is bb2c09ce-c864-4a2d-bf3f-e038c02ffa38
+[22Oct2025 00:12:00.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos died because of Vapor
+[22Oct2025 00:12:00.228] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is c57aeec7-0b55-42f9-86bd-3bfcac8cfdc1
+[22Oct2025 00:13:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Suit Up]
+[22Oct2025 00:13:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Stone Age]
+[22Oct2025 00:14:40.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DieguitosMomos lost connection: Disconnected
+[22Oct2025 00:14:40.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos left the game
+[22Oct2025 00:14:40.575] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DieguitosMomos
+[22Oct2025 00:15:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Getting an Upgrade]
+[22Oct2025 00:19:26.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Monster Hunter]
+[22Oct2025 00:21:56.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Sweet Dreams]
+[22Oct2025 00:22:20.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DieguitosMomos[/127.207.128.185:39261] logged in with entity id 21305 at (-15.300000011920929, -41.0, -87.30000001192093)
+[22Oct2025 00:22:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos joined the game
+[22Oct2025 00:22:20.445] [Server thread/INFO] [Jade/]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22Oct2025 00:22:21.102] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DieguitosMomos (20)
+[22Oct2025 00:22:21.102] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:22:25.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:22:27.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:22:27.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22Oct2025 00:23:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement [Bloodthirsty]
+[22Oct2025 00:24:03.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos died
+[22Oct2025 00:24:03.732] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is 5f1fdeb9-23fa-4e57-8c99-34ce3a1736f3
+[22Oct2025 00:24:15.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos fell from a high place
+[22Oct2025 00:24:15.130] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is 3bb4bd11-f764-4ed0-82dd-1b2ad1492240
+[22Oct2025 00:24:34.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[22Oct2025 00:24:34.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Kuwii0'/9064, l='ServerLevel[world]', x=-44.58, y=74.00, z=-140.60] died: Kuwii0 was slain by Kuwii0
+[22Oct2025 00:25:30.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 667e1106-c282-3c6d-9682-c562a92340be timed out
+[22Oct2025 00:25:30.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DieguitosMomos
+[22Oct2025 00:25:30.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:25:35.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DieguitosMomos lost connection: Timed out
+[22Oct2025 00:25:35.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos left the game
+[22Oct2025 00:25:35.525] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DieguitosMomos
+[22Oct2025 00:27:14.722] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@178cda60[id=<null>,name=DieguitosMomos,properties={},legacy=false] (/127.207.128.185:49597) lost connection: Disconnected
+[22Oct2025 00:27:18.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DieguitosMomos[/127.207.128.185:59577] logged in with entity id 28941 at (6.715801858025487, 7.0, -108.50876151020336)
+[22Oct2025 00:27:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos joined the game
+[22Oct2025 00:27:18.458] [Server thread/INFO] [Jade/]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22Oct2025 00:27:18.513] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DieguitosMomos (20)
+[22Oct2025 00:27:18.517] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:27:23.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:27:25.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:27:25.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22Oct2025 00:30:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 fell from a high place
+[22Oct2025 00:30:43.891] [Server thread/INFO] [gravestone/]: The death ID of player Kuwii0 is 9e55128c-a3f6-4119-82dd-9e31c2d1790e
+[22Oct2025 00:32:09.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player be6783b9-deab-35e4-adcc-ff70adb65e8d timed out
+[22Oct2025 00:32:09.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Kuwii0
+[22Oct2025 00:32:09.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Kuwii0
+[22Oct2025 00:32:18.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuwii0 lost connection: Timed out
+[22Oct2025 00:32:18.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 left the game
+[22Oct2025 00:32:18.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kuwii0
+[22Oct2025 00:35:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos was slain by Zombie
+[22Oct2025 00:35:27.979] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is df514b96-b5bf-41ac-82a2-b61391d4c4c7
+[22Oct2025 00:35:33.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 667e1106-c282-3c6d-9682-c562a92340be timed out
+[22Oct2025 00:35:33.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DieguitosMomos
+[22Oct2025 00:35:33.766] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:35:46.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DieguitosMomos lost connection: You logged in from another location
+[22Oct2025 00:35:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos left the game
+[22Oct2025 00:35:46.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DieguitosMomos
+[22Oct2025 00:35:46.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DieguitosMomos[/127.207.128.185:34763] logged in with entity id 40704 at (-81.86975696741688, -38.2468000194788, -200.69999998807907)
+[22Oct2025 00:35:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos joined the game
+[22Oct2025 00:35:46.906] [Server thread/INFO] [Jade/]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22Oct2025 00:35:47.017] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DieguitosMomos (20)
+[22Oct2025 00:35:47.017] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:35:50.241] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:35:52.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:35:52.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22Oct2025 00:36:33.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[22Oct2025 00:36:33.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DieguitosMomos'/40655, l='ServerLevel[world]', x=-79.38, y=-38.00, z=-198.08] died: DieguitosMomos was slain by DieguitosMomos
+[22Oct2025 00:36:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos was slain by Zombie
+[22Oct2025 00:36:52.224] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is 00ab81a2-0f60-4295-bef5-c8aa9f00ad47
+[22Oct2025 00:36:56.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 667e1106-c282-3c6d-9682-c562a92340be timed out
+[22Oct2025 00:36:56.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DieguitosMomos
+[22Oct2025 00:36:56.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:36:56.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DieguitosMomos lost connection: Disconnected
+[22Oct2025 00:36:56.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos left the game
+[22Oct2025 00:36:56.218] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DieguitosMomos
+[22Oct2025 00:37:00.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DieguitosMomos[/127.207.128.185:35857] logged in with entity id 42293 at (-78.67159308886879, -37.0, -198.68103095532481)
+[22Oct2025 00:37:00.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos joined the game
+[22Oct2025 00:37:00.317] [Server thread/INFO] [Jade/]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22Oct2025 00:37:00.440] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DieguitosMomos (20)
+[22Oct2025 00:37:00.441] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:37:03.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:37:05.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:37:05.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22Oct2025 00:37:34.822] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48bb9982[id=<null>,name=Kuwii0,properties={},legacy=false] (/127.64.253.164:46615) lost connection: Disconnected
+[22Oct2025 00:37:37.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuwii0[/127.64.253.164:50845] logged in with entity id 43271 at (26.13041231831009, 71.0, -205.40610019669975)
+[22Oct2025 00:37:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 joined the game
+[22Oct2025 00:37:38.083] [Server thread/INFO] [Jade/]: Syncing config to Kuwii0 (be6783b9-deab-35e4-adcc-ff70adb65e8d)
+[22Oct2025 00:37:38.332] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kuwii0 (20)
+[22Oct2025 00:37:38.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kuwii0
+[22Oct2025 00:37:41.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player be6783b9-deab-35e4-adcc-ff70adb65e8d
+[22Oct2025 00:37:43.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player be6783b9-deab-35e4-adcc-ff70adb65e8d
+[22Oct2025 00:37:43.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kuwii0 (be6783b9-deab-35e4-adcc-ff70adb65e8d) successfully connected to voice chat
+[22Oct2025 00:37:44.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuwii0 lost connection: Disconnected
+[22Oct2025 00:37:44.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuwii0 left the game
+[22Oct2025 00:37:44.624] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kuwii0
+[22Oct2025 00:37:47.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DieguitosMomos'/42242, l='ServerLevel[world]', x=-80.49, y=-39.00, z=-197.62] died: DieguitosMomos was slain by DieguitosMomos
+[22Oct2025 00:38:53.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos has made the advancement [Crops of the Wild]
+[22Oct2025 00:40:28.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos was blown up by Creeper
+[22Oct2025 00:40:28.173] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is 3ced43ce-c385-4049-a599-718ff06f307d
+[22Oct2025 00:45:36.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos was slain by Zombie
+[22Oct2025 00:45:36.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for DieguitosMomos with unique ID travelersbackpack.standard_22.10.2025-00.45.36.dat
+[22Oct2025 00:45:36.380] [Server thread/INFO] [gravestone/]: The death ID of player DieguitosMomos is 2413b1f9-ef54-483c-89f4-2924ac4737f8
+[22Oct2025 00:45:39.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 667e1106-c282-3c6d-9682-c562a92340be timed out
+[22Oct2025 00:45:39.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DieguitosMomos
+[22Oct2025 00:45:39.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:45:46.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DieguitosMomos lost connection: Timed out
+[22Oct2025 00:45:46.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos left the game
+[22Oct2025 00:45:46.288] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DieguitosMomos
+[22Oct2025 00:53:28.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DieguitosMomos[/127.207.128.185:46981] logged in with entity id 50338 at (-81.62633245403389, -39.0, -197.8853254934322)
+[22Oct2025 00:53:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos joined the game
+[22Oct2025 00:53:28.225] [Server thread/INFO] [Jade/]: Syncing config to DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be)
+[22Oct2025 00:53:28.346] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DieguitosMomos (20)
+[22Oct2025 00:53:28.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DieguitosMomos
+[22Oct2025 00:53:31.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:53:33.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 667e1106-c282-3c6d-9682-c562a92340be
+[22Oct2025 00:53:33.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DieguitosMomos (667e1106-c282-3c6d-9682-c562a92340be) successfully connected to voice chat
+[22Oct2025 00:54:13.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DieguitosMomos'/50285, l='ServerLevel[world]', x=-81.38, y=-39.00, z=-195.46] died: DieguitosMomos was slain by DieguitosMomos
+[22Oct2025 00:55:01.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DieguitosMomos lost connection: Disconnected
+[22Oct2025 00:55:01.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DieguitosMomos left the game
+[22Oct2025 00:55:01.573] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DieguitosMomos
